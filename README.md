@@ -8,7 +8,7 @@ AI phone assistants you build by talking to Claude. Describe the business and wh
 2. In Claude Code:
 
 ```
-/plugin marketplace add AdanRott/bluefeather
+/plugin marketplace add AdanRott/bluefeather-claude
 /plugin install bluefeather@bluefeather
 ```
 
