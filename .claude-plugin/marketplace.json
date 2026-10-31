@@ -1,0 +1,14 @@
+{
+  "name": "bluefeather",
+  "owner": { "name": "Bluefeather", "url": "https://bluefeather.ai" },
+  "metadata": { "description": "AI phone assistants you build by talking to Claude." },
+  "plugins": [
+    {
+      "name": "bluefeather",
+      "source": "./plugins/bluefeather",
+      "description": "Build AI phone assistants that answer calls on a real US number, book appointments, take messages, and work with your calendar, email and CRM.",
+      "category": "productivity",
+      "keywords": ["phone", "voice", "ai-receptionist", "calls", "appointments"]
+    }
+  ]
+}

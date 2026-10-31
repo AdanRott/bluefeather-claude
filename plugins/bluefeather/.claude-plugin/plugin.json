@@ -1,0 +1,31 @@
+{
+  "name": "bluefeather",
+  "displayName": "Bluefeather",
+  "version": "0.1.0",
+  "description": "Build AI phone assistants that answer calls on a real US number, book appointments, take messages, and work with your calendar, email and CRM. Free tier included.",
+  "author": {
+    "name": "Bluefeather",
+    "url": "https://bluefeather.ai"
+  },
+  "homepage": "https://bluefeather.ai",
+  "license": "MIT",
+  "keywords": [
+    "phone",
+    "voice",
+    "ai-receptionist",
+    "calls",
+    "appointments",
+    "answering-service",
+    "inbound"
+  ],
+  "userConfig": {
+    "bluefeather_token": {
+      "type": "string",
+      "title": "Bluefeather token",
+      "description": "Your Bluefeather access token (starts with bf_).",
+      "required": true,
+      "sensitive": true
+    }
+  },
+  "repository": "https://github.com/AdanRott/bluefeather"
+}

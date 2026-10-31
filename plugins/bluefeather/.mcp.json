@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bluefeather": {
+      "type": "http",
+      "url": "https://mcp.bluefeather.ai/mcp",
+      "headers": { "Authorization": "Bearer ${user_config.bluefeather_token}" }
+    }
+  }
+}
